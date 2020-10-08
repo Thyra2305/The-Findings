@@ -55,7 +55,5 @@ This illegal act was supposed to be the pretext for the rest of the events that 
 
 <img src="https://i.pinimg.com/originals/b5/d3/3e/b5d33e62f1468da78bddacaf441ec930.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
 
-        </p1>
-
   </body>
 </html>
